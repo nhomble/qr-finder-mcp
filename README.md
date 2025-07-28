@@ -2,6 +2,8 @@
 
 play with mcps and find qr codes appearing on my screen
 
+![](./docs/example.png)
+
 ## Local Installation
 
 ```
